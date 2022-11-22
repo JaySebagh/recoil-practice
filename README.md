@@ -1,1 +1,1 @@
-A practice project for learning recoil. Fetch trending github repos.
+A practice project for learning recoil. Fetch ~~trending github repos~~ Ghibli films.
