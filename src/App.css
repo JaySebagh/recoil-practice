@@ -1,0 +1,8 @@
+.film {
+    display: flex;
+    align-items: center;
+}
+
+.release {
+    padding: 0px 10px;
+}
